@@ -1,0 +1,1 @@
+export const LIST_LEVY_TITLE = 'LIST_LEVY_TITLE';
